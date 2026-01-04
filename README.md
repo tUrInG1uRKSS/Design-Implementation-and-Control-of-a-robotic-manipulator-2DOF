@@ -5,6 +5,10 @@ This repository contains the documentation, design files, and control algorithms
 The robotic arm is designed to be integrated into a rover for search and rescue applications, capable of performing tasks such as sample collection and supply delivery.
 <img width="1283" height="891" alt="image" src="https://github.com/user-attachments/assets/6cab6a90-f2d9-418e-bf80-56b61c8a53b9" />
 
+# Design and Implementation
+<img width="1111" height="805" alt="image" src="https://github.com/user-attachments/assets/c5f36822-d434-463a-8929-1381cbc83aaa" />
+
+<img width="1214" height="683" alt="image" src="https://github.com/user-attachments/assets/dd33bbad-8b02-4fb4-b2cf-8d39ef91bf5b" />
 
 ## Repository Structure
 
