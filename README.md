@@ -3,6 +3,8 @@
 This repository contains the documentation, design files, and control algorithms for a 2-degree-of-freedom (2-DOF) planar robotic manipulator. The project was developed as part of the **Analysis and Control of Robots (MT517)** course at the **National University of Engineering (UNI)**.
 
 The robotic arm is designed to be integrated into a rover for search and rescue applications, capable of performing tasks such as sample collection and supply delivery.
+<img width="1283" height="891" alt="image" src="https://github.com/user-attachments/assets/6cab6a90-f2d9-418e-bf80-56b61c8a53b9" />
+
 
 ## Repository Structure
 
